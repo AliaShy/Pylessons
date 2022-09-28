@@ -1,0 +1,10 @@
+# # Домашняя работа 2.0.
+# a = float(input('Введите число a: '))
+# b = float(input('Введите число b: '))
+# print(a, "+", b, "=", a+b)
+# print(a, "-", b, "=", a-b)
+# print(a, "*", b, "=", a*b)
+# print(a, "/", b, "=", round(a/b, 2))
+# print(a, "**", b, "=", a**b)
+# print(a, "//", b, "=", a//b)
+# print(a, "%", b, "=", a%b)
